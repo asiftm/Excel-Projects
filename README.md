@@ -6,7 +6,7 @@ This repo contains a collection of my work with Microsoft Excel, focusing on dat
 🔹 ### Projects Included
 - Data Science Job Dashboard : A dynamic dashboard with KPIs, trend analysis, and slicers for filtering.
 
-🔹 ### Skills Demonstrated
+###🔹Skills Demonstrated
 - Advanced Excel formulas (VLOOKUP, INDEX-MATCH, IF, etc.)
 - Data cleaning & preprocessing
 - Pivot Tables & Pivot Charts
