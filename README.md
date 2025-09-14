@@ -18,4 +18,4 @@ This repo contains a collection of my work with Microsoft Excel, focusing on dat
 - Open the .xlsx or .xlsm files in Microsoft Excel (or Excel Online).
 
 🔹 Screenshots
-![](Data_Science_Dashboard\Screenshot.png)
+![](Data_Science_Dashboard/Screenshot.png)
