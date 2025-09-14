@@ -14,8 +14,8 @@ This repo contains a collection of my work with Microsoft Excel, focusing on dat
 - Power Query for ETL (Extract, Transform, Load)
 
 ### How to Use
-- Clone this repository:
-- Open the .xlsx or .xlsm files in Microsoft Excel (or Excel Online).
+- Clone this repository 🠲 https://github.com/asiftm/Excel-Projects.git
+- Open in Microsoft Excel (or Excel Online) 🠲 [OneDrive](https://1drv.ms/x/c/5afa1d7f43683360/IQSWg_hCLtZNT4JEG0PeiawlAT_F3VRsfMiM7iq2IDYqZW8)
 
 ### Screenshots
 ![](Data_Science_Dashboard/Screenshot.png)
