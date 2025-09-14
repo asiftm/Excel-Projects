@@ -1,4 +1,5 @@
-# 📊 Excel Projects
+![](https://img.icons8.com/?size=100&id=L0druJv03YVW&format=png&color=000000)
+# Excel Projects
 
 ### Welcome to my Excel Projects repository!
 This repo contains a collection of my work with Microsoft Excel, focusing on data analysis, visualization, automation, and reporting. Each project demonstrates different Excel skills such as **Formulas**, **Pivot Tables**, **Charts**, **Dashboard** , **Power Query** and **Power Pivot**.
